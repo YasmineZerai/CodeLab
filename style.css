@@ -1,0 +1,52 @@
+#chatbot-bubble {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  width: 60px;
+  height: 60px;
+  background-color: #cc034d;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#chatbot-bubble:hover {
+  transform: scale(1.1);
+  background-color: #001a33;
+}
+
+#mini-circles {
+  position: absolute;
+  bottom: -80px;
+  right: 0;
+  display: flex;
+  gap: 10px;
+  flex-direction: column;
+  align-items: center;
+  opacity: 0;
+  visibility: hidden;
+  transition: opacity 0.2s ease, visibility 0.2s ease;
+}
+
+#chatbot-bubble:hover #mini-circles {
+  opacity: 1;
+  visibility: visible;
+}
+
+#mini-circles div {
+  width: 40px;
+  height: 40px;
+  background-color: #00274d;
+  border-radius: 50%;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+  transition: background-color 0.2s ease;
+}
+
+#mini-circles div:hover {
+  background-color: #001a33;
+}
