@@ -1,0 +1,264 @@
+{
+  "dataset": [
+    {
+      "id": 1,
+      "category": "Informations Générales sur l'Établissement",
+      "question": "Quelle est l'histoire de l'IHEC Carthage ?",
+      "answer": "L'IHEC Carthage a été fondée en 1942 et est l'une des plus anciennes écoles de gestion en Tunisie, reconnue pour son excellence académique."
+    },
+    {
+      "id": 2,
+      "category": "Informations Générales sur l'Établissement",
+      "question": "Où est situé l'IHEC Carthage ?",
+      "answer": "L'IHEC Carthage est située à Carthage, à proximité de Tunis, offrant un environnement idéal pour les études supérieures."
+    },
+    {
+      "id": 3,
+      "category": "Programmes et Cours",
+      "question": "Quels programmes sont proposés pour les étudiants internationaux ?",
+      "answer": "L'IHEC Carthage offre des programmes de gestion, de finance, de marketing, ainsi que des masters spécialisés, accessibles aux étudiants internationaux."
+    },
+    {
+      "id": 4,
+      "category": "Programmes et Cours",
+      "question": "Quels sont les prérequis pour intégrer le programme de MBA ?",
+      "answer": "Pour intégrer le programme de MBA, il est nécessaire d'avoir un diplôme de premier cycle en gestion ou dans un domaine connexe, ainsi qu'une expérience professionnelle de 3 à 5 ans."
+    },
+    {
+      "id": 5,
+      "category": "Admission et Inscription",
+      "question": "Quand débutent les inscriptions pour les nouveaux étudiants ?",
+      "answer": "Les inscriptions commencent en mai et se poursuivent jusqu'à fin août pour les programmes de premier cycle et de master."
+    },
+    {
+      "id": 6,
+      "category": "Admission et Inscription",
+      "question": "Quelles sont les modalités d'inscription pour les étudiants étrangers ?",
+      "answer": "Les étudiants étrangers doivent soumettre un dossier complet incluant une copie de leur passeport, un relevé de notes, et une lettre de motivation. Ils doivent également prouver leur maîtrise de la langue d'enseignement."
+    },
+    {
+      "id": 7,
+      "category": "Vie Étudiante",
+      "question": "Quels sont les services de soutien pour les étudiants étrangers à l'IHEC Carthage ?",
+      "answer": "L'IHEC Carthage propose un service d'accueil pour les étudiants étrangers, comprenant une assistance pour l'hébergement, la gestion administrative, et l'intégration culturelle."
+    },
+    {
+      "id": 8,
+      "category": "Vie Étudiante",
+      "question": "Y a-t-il des événements pour les étudiants de l'IHEC Carthage ?",
+      "answer": "Oui, l'IHEC Carthage organise plusieurs événements tels que des conférences, des ateliers de développement personnel, des activités culturelles et des compétitions sportives."
+    },
+    {
+      "id": 9,
+      "category": "Ressources Académiques",
+      "question": "Comment accéder aux ressources numériques de l'IHEC Carthage ?",
+      "answer": "Les étudiants peuvent accéder aux ressources numériques via le portail en ligne de l'établissement, avec leurs identifiants étudiants."
+    },
+    {
+      "id": 10,
+      "category": "Ressources Académiques",
+      "question": "Y a-t-il des bibliothèques à l'IHEC Carthage ?",
+      "answer": "Oui, l'IHEC Carthage dispose de plusieurs bibliothèques offrant un large choix de livres académiques et de ressources numériques."
+    },
+    {
+      "id": 11,
+      "category": "Services de Carrière",
+      "question": "Quels sont les services de carrière disponibles pour les étudiants ?",
+      "answer": "L'IHEC Carthage offre des services de placement, des ateliers de préparation de CV, des simulations d'entretiens, ainsi que des événements de networking avec des entreprises partenaires."
+    },
+    {
+      "id": 12,
+      "category": "Services de Carrière",
+      "question": "Y a-t-il des opportunités de stage à l'IHEC Carthage ?",
+      "answer": "Oui, les étudiants ont accès à une plateforme de stages et peuvent bénéficier de partenariats avec des entreprises nationales et internationales pour des stages obligatoires ou facultatifs."
+    },
+    {
+      "id": 13,
+      "category": "Santé et Bien-être",
+      "question": "Quels services de santé sont disponibles pour les étudiants à l'IHEC Carthage ?",
+      "answer": "L'IHEC Carthage met à disposition un centre de santé avec des consultations médicales de base et un service de première urgence."
+    },
+    {
+      "id": 14,
+      "category": "Santé et Bien-être",
+      "question": "Comment accéder aux services de bien-être mental ?",
+      "answer": "L'IHEC Carthage offre un soutien psychologique aux étudiants, avec des consultations privées disponibles sur rendez-vous."
+    },
+    {
+      "id": 15,
+      "category": "Technologie et Innovation",
+      "question": "Quelles technologies sont utilisées dans les salles de cours ?",
+      "answer": "Les salles de cours sont équipées de tableaux interactifs, de projecteurs modernes et d'un système de gestion de l'apprentissage en ligne."
+    },
+    {
+      "id": 16,
+      "category": "Technologie et Innovation",
+      "question": "Y a-t-il des projets d'innovation en cours à l'IHEC Carthage ?",
+      "answer": "Oui, l'IHEC Carthage soutient divers projets en intelligence artificielle, en finance numérique et en blockchain, dans le cadre de ses initiatives de recherche et d'innovation."
+    },
+
+    {
+      "id": 17,
+      "category": "Informations Générales",
+      "question": "Quelles sont les dates de rentrée à l'IHEC Carthage ?",
+      "answer": "La rentrée universitaire à l'IHEC Carthage se fait généralement en septembre pour les étudiants de Licence et en octobre pour ceux de Master. Veuillez consulter le site web de l'IHEC pour les dates exactes."
+    },
+    {
+      "id": 18,
+      "category": "Informations Générales",
+      "question": "Comment puis-je obtenir un certificat de scolarité à l'IHEC Carthage ?",
+      "answer": "Vous pouvez obtenir un certificat de scolarité en vous rendant à l'administration de votre département ou en le demandant via l'espace étudiant en ligne."
+    },
+    {
+      "id": 19,
+      "category": "Admission et Inscription",
+      "question": "Quelles sont les conditions d'admission à l'IHEC Carthage ?",
+      "answer": "Les conditions d'admission à l'IHEC Carthage dépendent du programme choisi. En général, il est nécessaire de réussir un concours d'entrée pour les formations de Master et d'avoir un Bac+2 ou Bac+3 pour les formations de Licence."
+    },
+    {
+      "id": 20,
+      "category": "Admission et Inscription",
+      "question": "Comment m'inscrire à un programme de Master à l'IHEC Carthage ?",
+      "answer": "L'inscription à un programme de Master se fait en ligne via le portail de l'IHEC Carthage après avoir validé votre admissibilité suite au concours d'entrée."
+    },
+    {
+      "id": 21,
+      "category": "Programmes Académiques",
+      "question": "Quels sont les programmes offerts à l'IHEC Carthage ?",
+      "answer": "L'IHEC Carthage offre une gamme de programmes en Licence, Master, et Doctorat dans des domaines tels que la gestion, le marketing, les finances, l'économie, et les sciences de l'information."
+    },
+    {
+      "id": 22,
+      "category": "Programmes Académiques",
+      "question": "L'IHEC Carthage propose-t-elle des formations en alternance ?",
+      "answer": "Oui, l'IHEC Carthage propose des formations en alternance dans certains programmes de Master, permettant aux étudiants de combiner études et expériences professionnelles."
+    },
+    {
+      "id": 23,
+      "category": "Programmes Académiques",
+      "question": "Est-il possible de suivre un programme en anglais à l'IHEC Carthage ?",
+      "answer": "Oui, certains programmes de Master et de Licence sont proposés en anglais, notamment dans les domaines du marketing international et de la finance."
+    },
+    {
+      "id": 24,
+      "category": "Campus et Infrastructures",
+      "question": "L'IHEC Carthage dispose-t-elle d'un campus accessible aux personnes handicapées ?",
+      "answer": "Oui, le campus de l'IHEC Carthage est équipé pour accueillir les étudiants en situation de handicap, avec des aménagements spécifiques dans les bâtiments et les salles de cours."
+    },
+    {
+      "id": 24,
+      "category": "Campus et Infrastructures",
+      "question": "Quels équipements sont disponibles à la bibliothèque de l'IHEC Carthage ?",
+      "answer": "La bibliothèque de l'IHEC Carthage offre une large collection de livres, de revues académiques, ainsi que des ordinateurs pour la recherche en ligne et la consultation des ressources électroniques."
+    },
+    {
+      "id": 25,
+      "category": "Campus et Infrastructures",
+      "question": "Comment puis-je accéder aux espaces de travail collaboratifs à l'IHEC Carthage ?",
+      "answer": "Les espaces de travail collaboratifs sont accessibles sur réservation via l'outil en ligne de gestion des ressources du campus. Vous devez être inscrit à un programme pour y avoir accès."
+    },
+    {
+      "id": 26,
+      "category": "Vie Étudiante",
+      "question": "Quels clubs étudiants existent à l'IHEC Carthage ?",
+      "answer": "L'IHEC Carthage dispose de nombreux clubs étudiants, notamment dans les domaines du sport, de l'entrepreneuriat, du développement durable, de la culture, et des sciences économiques. Vous pouvez consulter la liste des clubs sur le site web de l'université."
+    },
+    {
+      "id": 27,
+      "category": "Vie Étudiante",
+      "question": "Y a-t-il des événements de networking organisés à l'IHEC Carthage ?",
+      "answer": "Oui, l'IHEC Carthage organise régulièrement des événements de networking, des conférences avec des professionnels, et des salons de l'emploi pour les étudiants."
+    },
+    {
+      "id": 28,
+      "category": "Événements et Actualités",
+      "question": "Comment participer à la journée portes ouvertes de l'IHEC Carthage ?",
+      "answer": "Les journées portes ouvertes sont annoncées sur le site web de l'IHEC Carthage. Vous pouvez vous inscrire en ligne ou simplement vous présenter le jour de l'événement."
+    },
+    {
+      "id": 29,
+      "category": "Événements et Actualités",
+      "question": "Quand auront lieu les prochains examens à l'IHEC Carthage ?",
+      "answer": "Les dates des examens sont publiées sur le calendrier académique disponible dans l'espace étudiant en ligne. Veuillez consulter cette section pour connaître les dates exactes."
+    },
+    {
+      "id": 30,
+      "category": "Services et Support",
+      "question": "Y a-t-il un service de soutien psychologique à l'IHEC Carthage ?",
+      "answer": "Oui, l'IHEC Carthage propose un service de soutien psychologique pour les étudiants, accessible sur rendez-vous ou via l'espace étudiant en ligne."
+    },
+    {
+      "id": 31,
+      "category": "Services et Support",
+      "question": "Comment obtenir une bourse d'études à l'IHEC Carthage ?",
+      "answer": "Les bourses d'études sont disponibles sur la base du mérite académique ou de la situation financière. Vous pouvez postuler en ligne via l'espace étudiant ou contacter le bureau des bourses."
+    },
+    {
+      "id": 32,
+      "category": "Services et Support",
+      "question": "L'IHEC Carthage offre-t-elle un service de logement pour les étudiants ?",
+      "answer": "Non, l'IHEC Carthage ne propose pas de logement directement, mais nous travaillons avec des résidences étudiantes proches du campus. Vous pouvez consulter ces options via notre site web."
+    },
+
+    {
+      "id": 33,
+      "category": "Campus et Infrastructures",
+      "question": "L'IHEC Carthage dispose-t-elle de laboratoires informatiques modernes ?",
+      "answer": "Oui, l'IHEC Carthage dispose de plusieurs laboratoires informatiques équipés de logiciels spécialisés pour les études en gestion, finance et marketing."
+    },
+    {
+      "id": 34,
+      "category": "Relations Internationales",
+      "question": "L'IHEC Carthage a-t-elle des partenariats internationaux ?",
+      "answer": "Oui, l'IHEC Carthage est partenaire de plusieurs universités et écoles de gestion à travers le monde, permettant aux étudiants d'accéder à des programmes d'échange et à des doubles diplômes."
+    },
+    {
+      "id": 35,
+      "category": "Services et Support",
+      "question": "Y a-t-il un accompagnement pour les étudiants en recherche de stage ?",
+      "answer": "Oui, l'IHEC Carthage propose un accompagnement pour la recherche de stages, incluant une plateforme dédiée et des événements de mise en relation avec les entreprises."
+    },
+    {
+      "id": 36,
+      "category": "Événements et Actualités",
+      "question": "Quels types de concours sont organisés à l'IHEC Carthage ?",
+      "answer": "L'IHEC Carthage organise des concours académiques, des compétitions d'entrepreneuriat, et des hackathons pour encourager l'innovation parmi ses étudiants."
+    },
+    {
+      "id": 37,
+      "category": "Technologie et Innovation",
+      "question": "L'IHEC Carthage propose-t-elle des cours en ligne ?",
+      "answer": "Oui, certaines matières sont proposées en ligne via des plateformes d'apprentissage pour plus de flexibilité."
+    },
+    {
+      "id": 38,
+      "category": "Vie Étudiante",
+      "question": "Comment les étudiants peuvent-ils participer à la vie associative de l'IHEC Carthage ?",
+      "answer": "Les étudiants peuvent rejoindre l'un des nombreux clubs sur le campus ou créer leur propre association après approbation de l'administration."
+    },
+    {
+      "id": 39,
+      "category": "Admission et Inscription",
+      "question": "Quels sont les frais de scolarité pour les étudiants étrangers ?",
+      "answer": "Les frais de scolarité varient selon les programmes et sont généralement plus élevés pour les étudiants étrangers. Ils commencent autour de 2 500 TND par an pour les licences."
+    },
+    {
+      "id": 40,
+      "category": "Ressources Académiques",
+      "question": "L'IHEC Carthage dispose-t-elle d'une base de données académique en ligne ?",
+      "answer": "Oui, les étudiants ont accès à des bases de données académiques en ligne comme JSTOR, ProQuest, et d'autres pour leurs recherches."
+    },
+    {
+      "id": 41,
+      "category": "Relations avec les Alumni",
+      "question": "L'IHEC Carthage a-t-elle un réseau d'alumni actif ?",
+      "answer": "Oui, l'IHEC Carthage dispose d'un réseau d'anciens élèves très actif, qui organise régulièrement des événements de réseautage et des conférences pour les étudiants actuels."
+    },
+    {
+      "id": 42,
+      "category": "Logistique",
+      "question": "Y a-t-il des parkings disponibles pour les étudiants ?",
+      "answer": "Oui, un parking est disponible sur le campus pour les étudiants, bien qu'il puisse être limité en fonction de l'affluence."
+    }
+  ]
+}
